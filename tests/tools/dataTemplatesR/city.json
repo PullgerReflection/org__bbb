@@ -1,0 +1,14 @@
+[
+        {
+            "id_name": "boston",
+            "description": "Boston",
+            "id_iso_country": "us",
+            "id_iso_state": "ma"
+        },
+        {
+            "id_name": "tustin",
+            "description": "Tustin",
+            "id_iso_country": "us",
+            "id_iso_state": "ca"
+        }
+]

@@ -1,0 +1,14 @@
+{
+  "code_sequence": {
+    "list": [
+      {
+        "code_string": "aa = 'BB'",
+        "uuid": "1ea75b4d-255b-4321-8d3f-41b3a4a17f51"
+      },
+      {
+        "code_string": "print(aa)",
+        "uuid": "3016e4a8-dc17-4e51-8f50-218010dfffba"
+      }
+    ]
+  }
+}

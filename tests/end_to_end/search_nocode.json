@@ -1,0 +1,46 @@
+{
+  "code_sequence": {
+    "list": [
+      {
+        "code_string": "unitOperationsR.add_category(self)",
+        "uuid": "a5f31ded-6285-4655-9aa3-623ce4b9cacc"
+      },
+      {
+        "code_string": "unitOperationsR.add_city(self)",
+        "uuid": "97584bbc-e68b-49e4-90f3-a079d0233bf3"
+      },
+      {
+        "code_string": "element_search_request = unitOperationsR.add_search_request(self)",
+        "uuid": "c90fc4f1-4393-4eaf-9795-c4be4d637716"
+      },
+      {
+        "code_string": "session = unitOperationsMSM.add_new_session_selenium_standard(self)",
+        "uuid": "48f9b5f4-487b-40b5-a45d-65986352e478"
+      },
+      {
+        "code_string": "element_search_request.sync(session=session)",
+        "uuid": "06d058bc-d837-4846-b4f1-945438f866a7"
+      },
+      {
+        "code_string": "unitOperationsR.add_category(self)",
+        "uuid": "2c4bfcb9-61bd-40c9-895f-8839dd69b801"
+      }
+    ]
+  },
+  "libraries": {
+    "list": [
+      {
+        "as_name": null,
+        "element_name": "unitOperationsR",
+        "from_path": "pullgerReflection.org__bbb.tests.tools",
+        "uuid": "5883c5e6-08fa-4d1a-a82e-0f4c8c8bbd83"
+      },
+      {
+        "as_name": null,
+        "element_name": "unitOperationsMSM",
+        "from_path": "pullgerMultiSessionManager.tests.tools",
+        "uuid": "e086c829-d1e4-4826-ad58-2baba3a81e23"
+      }
+    ]
+  }
+}

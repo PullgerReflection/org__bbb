@@ -1,0 +1,34 @@
+Version history [pullgerReflection.com_linkedin]
+
+{0.2.1.1} [pullgerReflection.com_linkedin]
+ - fix error on creating 'Search request'
+
+
+{0.2.1.0} [pullgerReflection.com_linkedin]
+ - refactoring: moved DataTemplate and UnitOperations to Tools
+
+{0.2.0.0} [pullgerReflection.com_linkedin]
+ - converted API to package
+ - add search result tables
+ - add locations table
+ - made tests for search
+ - made tests for locations
+ - refactoring tests
+
+{0.1.2.0} [pullgerReflection.com_linkedin]
+ - bring some code to PEP8 standard
+
+{0.1.1.0} [pullgerReflection.com_linkedin]
+ - move signals to models
+
+{0.1.0.0} [pullgerReflection.com_linkedin]
+ - complex update
+
+
+{0.0.5.1} [pullgerReflection.com_linkedin]
+ - reconnecting pyReflection to new module location
+ - relocation exception to new location
+
+
+{0.0.0.0} [pullgerReflection.com_linkedin]
+ - initialization

@@ -1,0 +1,12 @@
+[
+        {
+            "id_iso": "ma",
+            "description": "Mami",
+            "id_iso_country": "us"
+        },
+        {
+            "id_iso": "ca",
+            "description": "California",
+            "id_iso_country": "us"
+        }
+]
